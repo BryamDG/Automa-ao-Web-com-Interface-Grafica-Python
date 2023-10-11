@@ -1,1 +1,1 @@
-# Automa-ao-Web-com-Interface-Grafica-Python
+# Envio de email (Pyautogui) com (Tkinter)
